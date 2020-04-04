@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="\belajarjava\arkademy2\soal6\bootstrap.min.css">
+    <link rel="stylesheet" href="soal6\bootstrap.min.css">
     <title>Soal 6b</title>
 </head>
 
@@ -12,7 +12,7 @@
 <body>
 
     <nav class="navbar navbar-light bg-light">
-         <a href="6b.php" class="navbar-brand"><img src="\belajarjava\arkademy2\soal6\asset\logo.png " width="100" height="50" alt=""></a>
+         <a href="6b.php" class="navbar-brand"><img src="soal6\asset\logo.png " width="100" height="50" alt=""></a>
         <form class="form-inline">
 
         <a href="insert.php" class="btn btn-warning my-2">+</a>
@@ -53,8 +53,8 @@
     
     
     <td>
-      <a href="edit.php?id="><img src="\belajarjava\arkademy2\soal6\asset\edit.svg" width="33" height="40"></a>
-      <a href=""><img src="\belajarjava\arkademy2\soal6\asset\trash.svg" width="40" height="40"></a>
+      <a href="edit.php?id="><img src="soal6\asset\edit.svg" width="33" height="40"></a>
+      <a href=""><img src="soal6\asset\trash.svg" width="40" height="40"></a>
 
   <?php } ?>
 
