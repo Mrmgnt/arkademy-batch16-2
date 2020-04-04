@@ -31,7 +31,8 @@
 
  - Import terlebih dahulu file Arkademy.sql kedalam database. untuk menjalankan, jalankan di localhost dan buka file index.php di browser.
 
-  6a - buat database dan buat query untuk tampilan seperti gambar berikut..
+  -6a - buat database dan buat query untuk tampilan seperti gambar berikut..
+ 
      ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/6a.png)
 
   select cashier.name AS cashier, product.name AS product, category.name AS category, product.price AS price
@@ -40,7 +41,9 @@
   INNER JOIN cashier ON cashier.id = product.id_cashier
 
   6b - Buatlah sebuah tampilan Website menggunakan data statik dengan HTML, CSS,
-    (gambar 6b 1 , 6b 3)
+  
+    ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss1.png)
+    ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss2.png)
   
 
 
