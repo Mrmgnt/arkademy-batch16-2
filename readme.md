@@ -26,6 +26,11 @@
 -soal no 4
 
 -soal no 5
+	// // input sesuai masukkan!! ( pilih masukkan )
+
+
+	console.log(getCounts("hari apa saja saya bisa!")); 
+	console.log(getCounts("cepat kerjakan!!!")); 
 
 * -soal no 6
 
