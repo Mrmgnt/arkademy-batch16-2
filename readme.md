@@ -32,7 +32,7 @@
  - Import terlebih dahulu file Arkademy.sql kedalam database. untuk menjalankan, jalankan di localhost dan buka file index.php di browser.
 
   6a - buat database dan buat query untuk tampilan seperti gambar berikut..
-     ![gambar(5)](https://github.com/mamenesia/arkademy/soal6/6a.png)
+     ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/soal6/6a.png)
 
   select cashier.name AS cashier, product.name AS product, category.name AS category, product.price AS price
   FROM product
