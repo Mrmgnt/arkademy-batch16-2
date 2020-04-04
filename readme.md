@@ -49,6 +49,7 @@
   * -6b - Buatlah sebuah tampilan Website menggunakan data statik dengan HTML, CSS,
 {
     ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss1.png)
+    * -tampilan untuk menambahkan data
     ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss2.png)
   
 
