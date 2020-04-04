@@ -46,7 +46,7 @@
   	INNER JOIN category ON category.id = product.id_category
   	INNER JOIN cashier ON cashier.id = product.id_cashier
 
-  6b - Buatlah sebuah tampilan Website menggunakan data statik dengan HTML, CSS,
+  * -6b - Buatlah sebuah tampilan Website menggunakan data statik dengan HTML, CSS,
 {
     ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss1.png)
     ![gambar(5)](https://github.com/Mrmgnt/arkademy-batch16-2/blob/master/soal6/ss2.png)
